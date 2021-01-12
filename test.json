@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wh473v32.github.io\/workadventure_v2\/test2.json#start"
+                 "value":"test2.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
